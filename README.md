@@ -1,1 +1,1 @@
-# Ticket_Reservation_System
+In this ticket reservation system, a user can make an account to reserve tickets for movies or continue as guest. When the tickets are reservated, the user gets a conformation email about their ticket info. In this system, there is also a section for admin's only where they can add new movies to the database, remove movies, add users and remove users. All of the operation in this sytem are connect to a MySQL database so whenever something changes, the database gets updated. This system also uses error checking and prevent SQL injections.
